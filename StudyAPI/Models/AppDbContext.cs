@@ -14,6 +14,6 @@ namespace StudyAPI.Models
         }
         public DbSet<Product> products { get; set; }
         public DbSet<Category> Categories { get; set; }
-
+        public DbSet<User> Users { get; set; }
     }
 }
