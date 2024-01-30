@@ -1,3 +1,4 @@
+D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\appsettings.Development.json
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\appsettings.json
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\StudyAPI.exe
@@ -5,9 +6,12 @@ D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\StudyAPI.deps.json
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\StudyAPI.runtimeconfig.json
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\StudyAPI.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\StudyAPI.pdb
+D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\AutoMapper.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Azure.Core.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Castle.Core.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -36,7 +40,6 @@ D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Microsoft.IdentityMo
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Code\C_Sharp_2024_NEW\StudyAPI\StudyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
